@@ -1,4 +1,4 @@
-# agentic_rag
+# medical_agentic_rag
 ## 安装相关依赖
 ```python
 pip install ollama
