@@ -45,4 +45,4 @@ LANGFUSE_BASE_URL = os.environ.get("LANGFUSE_BASE_URL", "http://localhost:3000")
 ENABLE_MCP = True
 MCP_SERVER_COMMAND = "python"
 MCP_SERVER_ARGS = ["-m", "my_mcp_server"]
-BAIDU_API_KEY = "Bearer bce-v3/ALTAK-cjmgCGIgA7pc0SgklVHfV/e257c7620b8dbde0441439164a51c59a9c4288a4"
+BAIDU_API_KEY = "..."
